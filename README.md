@@ -33,8 +33,20 @@
 
 ## InterviewBit
 ## Semaphore
+- [Why Do We Need DevOps for ML Data?](https://semaphoreci.com/blog/devops-ml-data)
+  
 ## censius.ai
+- [MLflow Alternatives for Data Version Control: DVC vs. MLflow](https://censius.ai/blogs/dvc-vs-mlflow)
+- [What Are Data Drifts And How To Detect Them?](https://censius.ai/blogs/what-are-data-drifts)
+- [How To Monitor ML Models In Production](https://censius.ai/blogs/how-to-monitor-models)
+- [Key Metrics In Model Monitoring And How To Measure Them](https://censius.ai/blogs/metrics-in-model-monitoring)
+- [Five Things To Consider Before Serving Machine Learning Models To Users](https://censius.ai/blogs/things-to-consider-for-model-serving)
+- [The Importance Of Data Quality For A Successful ML Project](https://censius.ai/blogs/importance-of-data-quality)
+
 ## neptune.ai
+- [Image Processing in Python: Algorithms, Tools, and Methods You Should Know](https://neptune.ai/blog/image-processing-python)
+- [Best Data Science Tools to Increase Machine Learning Model Understanding](https://neptune.ai/blog/best-data-science-tools-to-increase-machine-learning-model-understanding)
+  
 ## Techstrot
 - [C Courses to Go For in 2023](https://www.techstrot.com/c-courses/)
 - [Benefits of Using Cloud-Based Platforms for Your Business](https://www.techstrot.com/benefits-of-cloud-based-platforms-for-businesses/)
@@ -60,4 +72,31 @@
 - [Java vs JavaScript: How Do They Differ?](https://www.techstrot.com/java-vs-javascript/)
   
 ## TutorialPoint
+- [Replace two Substrings (of a String) with Each Other](https://www.tutorialspoint.com/replace-two-substrings-of-a-string-with-each-other)
+- [Minimum Number of Operations to move all Uppercase Characters before all Lower Case Characters](https://www.tutorialspoint.com/minimum-number-of-operations-to-move-all-uppercase-characters-before-all-lower-case-characters)
+- [Minimum number of given Operations Required to Convert a String to Another String](https://www.tutorialspoint.com/minimum-number-of-given-operations-required-to-convert-a-string-to-another-string)
+- [Java ArrayList to Print all Possible Words from Phone Digits](https://www.tutorialspoint.com/java-arraylist-to-print-all-possible-words-from-phone-digits)
+- [Generate a String Consisting of Characters ‘a’ and ‘b’ that Satisfy the given Conditions](https://www.tutorialspoint.com/generate-a-string-consisting-of-characters-lsquo-a-rsquo-and-lsquo-b-rsquo-that-satisfy-the-given-conditions)
+- [First Come, First Serve ñ CPU Scheduling | (Non-preemptive)](https://www.tutorialspoint.com/first-come-first-serve-n-cpu-scheduling-non-preemptive)
+- [Finding Optimal Page Size](https://www.tutorialspoint.com/finding-optimal-page-size)
+- [Find time taken to Execute the Tasks in A Based on the Order of Execution in B](https://www.tutorialspoint.com/find-time-taken-to-execute-the-tasks-in-a-based-on-the-order-of-execution-in-b)
+- [Find the Time Taken Finish Processing of given Processes](https://www.tutorialspoint.com/find-the-time-taken-finish-processing-of-given-processes)
+- [Find the Order of Execution of given N Processes in Round Robin Scheduling](https://www.tutorialspoint.com/find-the-order-of-execution-of-given-n-processes-in-round-robin-scheduling)
+- [Advantages and Disadvantages of Three-tier Architecture](https://www.tutorialspoint.com/advantages-and-disadvantages-of-three-tier-architecture)
+- [Build a Calculate Expression Game in Java](https://www.tutorialspoint.com/build-a-calculate-expression-game-in-java)
+- [Binary Search vs Contains Performance in Java List](https://www.tutorialspoint.com/binary-search-vs-contains-performance-in-java-list)
+- [12 Tips to Optimize Java Code Performance](https://www.tutorialspoint.com/12-tips-to-optimize-java-code-performance)
+- [Break Any Outer Nested Loop by Referencing its Name in Java](https://www.tutorialspoint.com/break-any-outer-nested-loop-by-referencing-its-name-in-java)
+- [Workflow of MLOps](https://www.tutorialspoint.com/workflow-of-mlops)
+- [Evaluating MLOps Platform](https://www.tutorialspoint.com/evaluating-mlops-platform)
+- [MLOps to deploy Machine Learning Pipeline](https://www.tutorialspoint.com/mlops-to-deploy-machine-learning-pipeline)
+- [MLOps Tools, Best Practices and Case Studies](https://www.tutorialspoint.com/mlops-tools-best-practices-and-case-studies)
+- [Who is MLOps Engineer?](https://www.tutorialspoint.com/who-is-mlops-engineer)
+- [MLOps vs DevOps](https://www.tutorialspoint.com/mlops-vs-devops)
+- [Differences Between MLOps, ModelOps, AIOps, DataOps](https://www.tutorialspoint.com/differences-between-mlops-modelops-aiops-dataops)
+- [Best MLOps Tools & Platforms 2022](https://www.tutorialspoint.com/best-mlops-tools-and-platforms-2022)
+- [What is MLOps?](https://www.tutorialspoint.com/what-is-mlops)
+
 ## Naukri Learning
+- [Depth First Search Algorithm](https://www.shiksha.com/online-courses/articles/depth-first-search-algorithm/)
+- [Shell Sort](https://www.shiksha.com/online-courses/articles/shell-sort-advantages-and-disadvantages/)
