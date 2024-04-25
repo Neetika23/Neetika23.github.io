@@ -77,7 +77,7 @@
 - [Minimum number of given Operations Required to Convert a String to Another String](https://www.tutorialspoint.com/minimum-number-of-given-operations-required-to-convert-a-string-to-another-string)
 - [Java ArrayList to Print all Possible Words from Phone Digits](https://www.tutorialspoint.com/java-arraylist-to-print-all-possible-words-from-phone-digits)
 - [Generate a String Consisting of Characters ‘a’ and ‘b’ that Satisfy the given Conditions](https://www.tutorialspoint.com/generate-a-string-consisting-of-characters-lsquo-a-rsquo-and-lsquo-b-rsquo-that-satisfy-the-given-conditions)
-- [First Come, First Serve ñ CPU Scheduling | (Non-preemptive)](https://www.tutorialspoint.com/first-come-first-serve-n-cpu-scheduling-non-preemptive)
+- [First Come, First Serve ñ CPU Scheduling - Non-preemptive](https://www.tutorialspoint.com/first-come-first-serve-n-cpu-scheduling-non-preemptive)
 - [Finding Optimal Page Size](https://www.tutorialspoint.com/finding-optimal-page-size)
 - [Find time taken to Execute the Tasks in A Based on the Order of Execution in B](https://www.tutorialspoint.com/find-time-taken-to-execute-the-tasks-in-a-based-on-the-order-of-execution-in-b)
 - [Find the Time Taken Finish Processing of given Processes](https://www.tutorialspoint.com/find-the-time-taken-finish-processing-of-given-processes)
