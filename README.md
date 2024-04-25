@@ -31,7 +31,6 @@
 - [Introduction to Preprocessing for Machine Learning](https://medium.com/@kwal.neetika/introduction-to-preprocessing-for-machine-learning-df82edf6e07e)
 - [MLflow Alternatives for Data Version Control: DVC vs. MLflow](https://medium.com/@kwal.neetika/mlflow-and-dvc-are-two-mlops-tools-that-are-widely-used-in-machine-learning-today-b30e4325216a)
 
-## InterviewBit
 ## Semaphore
 - [Why Do We Need DevOps for ML Data?](https://semaphoreci.com/blog/devops-ml-data)
   
@@ -100,3 +99,5 @@
 ## Naukri Learning
 - [Depth First Search Algorithm](https://www.shiksha.com/online-courses/articles/depth-first-search-algorithm/)
 - [Shell Sort](https://www.shiksha.com/online-courses/articles/shell-sort-advantages-and-disadvantages/)
+
+## InterviewBit
