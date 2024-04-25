@@ -1,5 +1,3 @@
-# Published Blogs
-
 ## Baeldung
 - [How to Iterate Over the String Characters in Java](https://www.baeldung.com/java-iterate-string-characters) <br>
 - [Print a Java 2D Array](https://www.baeldung.com/java-2d-array-print#:~:text=stream()%20method%20can%20be,stream(myArray)%20.) <br>
