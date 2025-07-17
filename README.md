@@ -9,10 +9,24 @@
 - [Using Comparator.nullsLast() to Avoid NullPointerException When Sorting](https://www.baeldung.com/java-comparator-nullslast-avoid-nullpointerexception) <br>
 - [Convert a Map to a Spring MultiValueMap](https://www.baeldung.com/java-convert-map-spring-multivaluemap) <br>
 - [How to Implement a Queue Using Two Stacks?](https://www.baeldung.com/cs/queue-two-stacks-simulate) <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
+- [How to Convert to and From a Stream and Two Dimensional Array in Java](https://www.baeldung.com/java-convert-stream-2d-array) <br>
+- [@ExtensionMethod Annotation in Lombok](https://www.baeldung.com/java-lombok-extensionmethod) <br>
+- [Finding the Mode of Integers in an Array in Java](https://www.baeldung.com/java-mode-integer-array) <br>
+- [How to Check if a Number Is a Palindrome in Java](https://www.baeldung.com/java-palindrome-integer-test) <br>
+- [Find the Length of the Largest Subarray With Zero Sum in Java](https://www.baeldung.com/java-hashmap-count-largest-subarray-zero-sum) <br>
+- [Collect Successive Pairs From a Stream in Java](https://www.baeldung.com/java-stream-collect-successive-pairs) <br>
+- [Finding the Index of the First Duplicate Element in an Array](https://www.baeldung.com/java-array-find-index-leftmost-duplicate) <br>
+- [Mock @Value in Spring Boot Test](https://www.baeldung.com/java-spring-boot-test-mock-value) <br>
+- [Why Is 2 * (i * i) Faster Than 2 * i * i in Java?](https://www.baeldung.com/java-performance-2-i-i-multiplication) <br>
+- [Difference Between a HashMap and a Dictionary in Java](https://www.baeldung.com/java-hashmap-vs-dictionary) <br>
+- [Convert Between IPv6 and BigInteger in Java](https://www.baeldung.com/java-convert-ipv6-biginteger) <br>
+- [How to Check if Two Boolean Values Are Equal](https://www.baeldung.com/java-check-two-booleans-equal) <br>
+- [Introduction to OSHI](https://www.baeldung.com/java-oshi) <br>
+- [Java Equivalent to Python’s Easy String Slicing](https://www.baeldung.com/java-string-slicing) <br>
+- [Validate List of Values in Spring](https://www.baeldung.com/java-spring-validate-value-list) <br>
+- [Create Array of Linked Lists in Java](https://www.baeldung.com/java-array-containing-linked-lists) <br>
+- [Add a Line Break/Blank Line After Log Statements in Java](https://www.baeldung.com/java-add-line-break-after-log-statement) <br>
+- [Printing Stack Values in Java](https://www.baeldung.com/java-printing-stack-values) <br>
 
 ## GeeksforGeeks
 - [Extract dominant colors of an image using Python](https://www.geeksforgeeks.org/extract-dominant-colors-of-an-image-using-python/) <br>
