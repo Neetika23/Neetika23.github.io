@@ -4,6 +4,15 @@
 - [Get a Range of Items from a Stream in Java](https://www.baeldung.com/java-stream-get-range) <br>
 - [Find the Largest Number Possible After Removing k Digits of a Number](https://www.baeldung.com/java-find-largest-number-remove-k-digits) <br>
 - [High-Level Design vs. Low-Level Design](https://www.baeldung.com/cs/hld-lld#:~:text=HLD%20sets%20the%20software%20system's,functional%20and%20non%2Dfunctional%20ones.) <br>
+- [How to Iterate a List of Maps in Java](https://www.baeldung.com/java-iterate-map-list) <br>
+- [Convert a Queue to a List](https://www.baeldung.com/java-convert-queue-list) <br>
+- [Using Comparator.nullsLast() to Avoid NullPointerException When Sorting](https://www.baeldung.com/java-comparator-nullslast-avoid-nullpointerexception) <br>
+- [Convert a Map to a Spring MultiValueMap](https://www.baeldung.com/java-convert-map-spring-multivaluemap) <br>
+- [How to Implement a Queue Using Two Stacks?](https://www.baeldung.com/cs/queue-two-stacks-simulate) <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
 
 ## GeeksforGeeks
 - [Extract dominant colors of an image using Python](https://www.geeksforgeeks.org/extract-dominant-colors-of-an-image-using-python/) <br>
